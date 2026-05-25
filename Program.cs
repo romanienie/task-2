@@ -325,5 +325,5 @@ class Program
 
         // запускаем меню
         manager.Menu();
-    }//да
+    }
 }
